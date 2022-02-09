@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4e7c12D73025D4a6a3c0Fbedd3292d7Ffa0783Eb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4e7c12D73025D4a6a3c0Fbedd3292d7Ffa0783Eb",
+  "NETWORK": {
+    "NAME": "Ethereum Tesnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "AFK ALIEN",
+  "SYMBOL": "AFK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/123",
+  "SHOW_BACKGROUND": true
+}
